@@ -1,0 +1,7 @@
+sa pina D9 sa zelenom zicom na otpornik pa na srednju nozicu
+sa pina D6 s plavom zicom na otpornik pa na skroz lijevu nozicu
+sa pina D3 s crvenom zicom na otpornik pa na skroz desnu nozicu
+
+najduzi pin sa zicom na GND
+
+i u pythonu po potrebi promijeniti "COMx"
